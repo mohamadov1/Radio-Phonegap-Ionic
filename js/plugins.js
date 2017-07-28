@@ -1,9 +1,3 @@
-/*! 
- * Roots v 2.0.0
- * Follow me @adanarchila at Codecanyon.net
- * URL: http://codecanyon.net/item/roots-phonegapcordova-multipurpose-hybrid-app/9525999
- * Don't forget to rate Roots if you like it! :)
- */
 
 // Insert all the plugins you are going to need for this project
 
